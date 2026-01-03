@@ -1,0 +1,12 @@
+body{font-family: Arial; color:black ;background:linen ;margin:0 ;padding:0}
+
+header{background:darkorange; color:white ;text-align:center ;padding:20px}
+
+nav{background:grey ;padding:20px ;text-align:center}
+nav a {color:black ;margin: 0 15px ;font-weight:bold ;text-decoration:none}
+
+section{padding:20px ;margin:auto}
+
+ul{padding:0 ;list-style:none}
+
+ul li {background:white smoke ;margin:10px 0 ;padding:10px ;border-left:5px solid darkorange }
